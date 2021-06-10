@@ -1,3 +1,3 @@
 # EfficientnetBx
 
-# Fine Tunning EffB0 on CIFAR10
+# Fine Tuning EffB0 on CIFAR10
